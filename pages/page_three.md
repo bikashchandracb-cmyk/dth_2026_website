@@ -1,23 +1,17 @@
-# Zotero: An Open-Source Tool for European Studies
+# Orange Data Mining for European Studies
+I chose Orange Data Mining because I used it in my first semester at Aarhus University in the course Applied Qualitative Research Methods. It can also help in European Studies.
+Orange is open source software for data analysis, data mining and visualisation. Users connect widgets on a visual canvas, without writing much code. It is developed by the Bioinformatics Laboratory at the University of Ljubljana (Bioinformatics Laboratory, University of Ljubljana, n.d.-b).
+For example, I could use Orange to explore EU policy documents about migration. I could prepare the documents as text data and use the Text Mining add-on to find frequent words and compare themes (Bioinformatics Laboratory, University of Ljubljana, n.d.-c). I could search terms like "asylum" and "border security". I would still need to read the documents and interpret the results myself, because word frequency alone cannot explain the context of a policy.
+I checked the five points on the Orange3 GitHub repository (Bioinformatics Laboratory, n.d.-b). Licence: Orange uses the GNU General Public License version 3 or later, which lets people use, change and share the software under its conditions (Bioinformatics Laboratory, University of Ljubljana, n.d.-a).
+ Last change: the repository showed an update on 26 October 2026. 
+People: GitHub listed over 100 contributors. 
+Questions: the Issues page showed about 105 open issues, but I cannot be sure that every question gets an answer.
+ Money: the laboratory says its work is mainly supported by project grants, and it also asks for monthly support through GitHub Sponsors (Bioinformatics Laboratory, n.d.-a).
+My verdict is that I would use Orange as a supporting tool for a thesis. Because the code is open, I can explain how my results were made. But it depends on one university lab, so I would not rely on it alone. If it stopped, I could export my data and move to Python.
 
-As a European Studies student, I have to read many academic articles, reports and official documents. It can be difficult to keep all these sources organised. Zotero is a free, open-source tool that helps users collect research materials, save references and create citations.
-
-Zotero was created at George Mason University and is now a project of Digital Scholar, a nonprofit organisation. For my thesis on the Evros border and non-refoulement, I could use Zotero to organise Frontex reports, EU documents, court judgments and academic articles. I could also add notes to remember the main arguments in each source.
-
-**License and development:** Zotero's source code is released under the GNU Affero General Public License version 3 (AGPL-3.0), unless stated otherwise. This licence allows users to study, modify and share the code under its conditions. The project has an active GitHub repository. Its latest release, Zotero 10.0.6, was published on 7 October 2026. The project has a large contributor community, and its development history shows regular updates. Official user support is available through the Zotero Forums. The main application’s bug reports and feature requests are not handled through GitHub Issues.
-
-**Funding:** Zotero's development and operating costs are funded by individual and institutional storage subscriptions. This helps support the project while keeping the research tool free to use.
-
-**My evaluation:** I would feel comfortable using Zotero for my thesis because it could save time and help me manage my references. However, I would keep backup copies of important documents and export my reference library in case I changed tools later. Overall, Zotero is a useful option for academic research, but keeping my own backups would be important.
-
-**Sources**
-
-- https://www.zotero.org/
-- https://www.zotero.org/about
-- https://www.zotero.org/support/licensing
-- https://www.zotero.org/support/dev/source_code
-- https://www.zotero.org/support/changelog
-- https://www.zotero.org/support/forums
-- https://www.zotero.org/getinvolved
-- https://github.com/zotero/zotero
-
+##References
+Bioinformatics Laboratory. (n.d.-a). Become a sponsor to Bioinformatics Laboratory. GitHub. https://github.com/sponsors/biolab
+Bioinformatics Laboratory. (n.d.-b). Orange3 [Computer software]. GitHub. https://github.com/biolab/orange3
+Bioinformatics Laboratory, University of Ljubljana. (n.d.-a). License. https://orangedatamining.com/license
+Bioinformatics Laboratory, University of Ljubljana. (n.d.-b). Orange data mining. https://orangedatamining.com/
+Bioinformatics Laboratory, University of Ljubljana. (n.d.-c). Orange3 text mining documentation. https://orange3-text.readthedocs.io/
