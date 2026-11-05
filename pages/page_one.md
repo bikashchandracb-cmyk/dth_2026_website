@@ -8,6 +8,6 @@ Open source can also survive its makers. Linux started in 1991, when a Finnish s
 
 So the main advantage for me is freedom. I can understand the tools I use, share them and improve them, and this is more than saving money.
 
-## References
 
-Bioinformatics Laboratory, University of Ljubljana. (n.d.). *Orange data mining*. https://orangedatamining.com/
+## References
+Bioinformatics Laboratory, University of Ljubljana. (n.d.). Orange data mining. 
