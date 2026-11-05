@@ -1,12 +1,14 @@
-# Page two
+# Disadvantages of Open Source Software
 
-## This is the headline of your second page
+Open source also has problems, and most of them come from one fact suppose free to download does not mean free to make. Somebody must write the code, test it, fix errors and release updates. This costs time and money, and often volunteers do it without payment. When they lose interest or get tired, a project can slowly die, and a student who built a thesis on it is left with a problem.
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+Security is a second concern. XZ Utils is a small tool that makes files smaller, and it is used in almost every Linux system. For years it was looked after by one unpaid volunteer. In 2024 harmful code was found in versions 5.6.0 and 5.6.1 (Cybersecurity and Infrastructure Security Agency, 2024). It came from a new helper who had earned the trust of the project over a long time. I find this case interesting, because open source made the attack possible, but it also made the discovery possible, since anyone could read the code.
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
+Some tools are also hard for beginners, and there is often no support team to call. A third problem is control. OpenOffice was open source, but contributors had to give their copyright to the company that owned it. Many developers did not accept this and left to make LibreOffice in 2010. So open code is not enough. The people behind a project must also make fair decisions.
 
-### Another headline
+In my view open source is still worth using, but I should check if a project is active and keep another tool as a plan B.
 
-1. Numbered lists work too
-2. Just start the lines with numbers
+
+## References
+Cybersecurity and Infrastructure Security Agency. (2024, March 29).
+Reported supply chain compromise affecting XZ Utils data compression library, CVE-2024-3094. 
