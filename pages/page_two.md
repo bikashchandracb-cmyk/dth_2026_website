@@ -1,14 +1,20 @@
 # Disadvantages of Open Source Software
 
-Open source also has problems, and most of them come from one fact suppose free to download does not mean free to make. Somebody must write the code, test it, fix errors and release updates. This costs time and money, and often volunteers do it without payment. When they lose interest or get tired, a project can slowly die, and a student who built a thesis on it is left with a problem.
+Although open source software has many advantages, it also has some disadvantages. Free software is not always easy to use, secure or well supported.
+One major problem is maintenance. Many developers do not earn regular income from open source projects. They often have other jobs and personal responsibilities. Therefore, they may not have enough time to update the software, fix errors or improve it. As a result, some projects become outdated or abandoned, making it difficult for users to run them properly.
 
-Security is a second concern. XZ Utils is a small tool that makes files smaller, and it is used in almost every Linux system. For years it was looked after by one unpaid volunteer. In 2024 harmful code was found in versions 5.6.0 and 5.6.1 (Cybersecurity and Infrastructure Security Agency, 2024). It came from a new helper who had earned the trust of the project over a long time. I find this case interesting, because open source made the attack possible, but it also made the discovery possible, since anyone could read the code.
+Security is another concern. Although people can check open source code, not every part is checked regularly. The XZ Utils incident in 2024 showed how malicious code could create serious security risks for Linux systems (CERT-EU, 2024).
 
-Some tools are also hard for beginners, and there is often no support team to call. A third problem is control. OpenOffice was open source, but contributors had to give their copyright to the company that owned it. Many developers did not accept this and left to make LibreOffice in 2010. So open code is not enough. The people behind a project must also make fair decisions.
+Some programmes are also difficult for beginners. Instructions may be confusing, and users may not get quick technical support. Many projects depend on community help. Sometimes, users must solve technical problems themselves because professional support may not be available, which can take extra time.
+My experience with Orange Data Mining has also shown me its limitations. It can analyse data and create charts, but it cannot fully explain the results. I still need academic sources and my own understanding to interpret them.
 
-In my view open source is still worth using, but I should check if a project is active and keep another tool as a plan B.
+For students and researchers, these problems can affect their work, especially when they depend on software for important assignments or projects. Sometimes they may need to learn another programme if their usual software is no longer supported.
+
+Overall, open source software is useful, but users should consider maintenance, security and support, not just the price.
+
+
 
 
 ## References
-Cybersecurity and Infrastructure Security Agency. (2024, March 29).
-Reported supply chain compromise affecting XZ Utils data compression library, CVE-2024-3094. 
+CERT-EU. (2024, April 2). Critical vulnerability in XZ Utils (Security Advisory 2024-032). https://www.cert.europa.eu/publications/security-advisories/2024-032/
+
