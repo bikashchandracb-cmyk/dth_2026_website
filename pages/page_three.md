@@ -7,11 +7,11 @@ Orange is open source software for data analysis and visualisation. It is develo
 As a European Studies student, I find Orange useful for my studies and Digital Technologies in the Humanities. Its Text Mining tools could help me explore EU policy documents, identify common words and compare discussions about European issues. I could find patterns and create charts. It could also help me organise information for future academic research and my thesis.
 
 I checked five things about the project.
-# Licence: Orange uses the GNU General Public License (GPL), version 3 or later. Users can use, share and modify it under the licence conditions (Bioinformatics Laboratory, n.d.-a).
-# Latest commit: On 13 November 2026, the GitHub activity page showed recent project activity (GitHub, n.d.-a).
-# Contributors: The GitHub page lists people who have contributed to Orange, showing that it is a collaborative project (GitHub, n.d.-b).
-# Questions: Users can ask questions and report problems on GitHub. Some receive replies, while others may remain unanswered (GitHub, n.d.-c).
-# Funding: Orange is developed by a university research laboratory and has a GitHub Sponsors page. Its full budget is not clear (Bioinformatics Laboratory, n.d.-d).
+Licence: Orange uses the GNU General Public License (GPL), version 3 or later. Users can use, share and modify it under the licence conditions (Bioinformatics Laboratory, n.d.-a).
+ Latest commit: On 13 November 2026, the GitHub activity page showed recent project activity (GitHub, n.d.-a).
+ Contributors: The GitHub page lists people who have contributed to Orange, showing that it is a collaborative project (GitHub, n.d.-b).
+ Questions: Users can ask questions and report problems on GitHub. Some receive replies, while others may remain unanswered (GitHub, n.d.-c).
+ Funding: Orange is developed by a university research laboratory and has a GitHub Sponsors page. Its full budget is not clear (Bioinformatics Laboratory, n.d.-d).
 
 Overall, I would use Orange to explore data, but I would check the results carefully. It cannot explain every research finding, so I would also use academic sources. I would keep copies of my data in case I need another programme.
 
