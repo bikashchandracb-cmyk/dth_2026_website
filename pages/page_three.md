@@ -1,30 +1,26 @@
-# Orange Data Mining for European Studies
+## Orange Data Mining and European Studies
 
-I chose Orange Data Mining because I used it in my first semester at Aarhus University in the course Applied Qualitative Research Methods. It can also help in European Studies.
+I chose Orange Data Mining because I used it in my first-semester Applied Qualitative Research Methods course. It is free, easy to use and does not require advanced programming skills.
 
+Orange is open source software for data analysis and visualisation. It is developed by the Bioinformatics Laboratory at the University of Ljubljana with help from an open source community (Bioinformatics Laboratory, n.d.-b).
 
-Orange is open source software for data analysis, data mining and visualisation. Users connect widgets on a visual canvas, without writing much code. It is developed by the Bioinformatics Laboratory at the University of Ljubljana (Bioinformatics Laboratory, University of Ljubljana, n.d.-b).
+As a European Studies student, I find Orange useful for my studies and Digital Technologies in the Humanities. Its Text Mining tools could help me explore EU policy documents, identify common words and compare discussions about European issues. I could find patterns and create charts. It could also help me organise information for future academic research and my thesis.
 
+I checked five things about the project.
+# Licence: Orange uses the GNU General Public License (GPL), version 3 or later. Users can use, share and modify it under the licence conditions (Bioinformatics Laboratory, n.d.-a).
+# Latest commit: On 13 November 2026, the GitHub activity page showed recent project activity (GitHub, n.d.-a).
+# Contributors: The GitHub page lists people who have contributed to Orange, showing that it is a collaborative project (GitHub, n.d.-b).
+# Questions: Users can ask questions and report problems on GitHub. Some receive replies, while others may remain unanswered (GitHub, n.d.-c).
+# Funding: Orange is developed by a university research laboratory and has a GitHub Sponsors page. Its full budget is not clear (Bioinformatics Laboratory, n.d.-d).
 
-For example, I could use Orange to explore EU policy documents about migration. I could prepare the documents as text data and use the Text Mining add-on to find frequent words and compare themes (Bioinformatics Laboratory, University of Ljubljana, n.d.-c). I could search terms like "asylum" and "border security". I would still need to read the documents and interpret the results myself, because word frequency alone cannot explain the context of a policy.
-
-
-I checked the five points on the Orange3 GitHub repository (Bioinformatics Laboratory, n.d.-b). Licence: Orange uses the GNU General Public License version 3 or later, which lets people use, change and share the software under its conditions (Bioinformatics Laboratory, University of Ljubljana, n.d.-a).
-
-
- ## Last change: the repository showed an update on 26 October 2026. 
- ## People: GitHub listed over 100 contributors. 
- ## Questions: the Issues page showed about 105 open issues, but I cannot be sure that every question gets an answer.
- ## Money: the laboratory says its work is mainly supported by project grants, and it also asks for monthly support through GitHub Sponsors (Bioinformatics Laboratory, n.d.-a).
-
- 
-My verdict is that I would use Orange as a supporting tool for a thesis. Because the code is open, I can explain how my results were made. But it depends on one university lab, so I would not rely on it alone. If it stopped, I could export my data and move to Python.
-
+Overall, I would use Orange to explore data, but I would check the results carefully. It cannot explain every research finding, so I would also use academic sources. I would keep copies of my data in case I need another programme.
 
 
 ## References
-Bioinformatics Laboratory. (n.d.-a). Become a sponsor to Bioinformatics Laboratory. GitHub. https://github.com/sponsors/biolab
-Bioinformatics Laboratory. (n.d.-b). Orange3 [Computer software]. GitHub. https://github.com/biolab/orange3
-Bioinformatics Laboratory, University of Ljubljana. (n.d.-a). License. https://orangedatamining.com/license
-Bioinformatics Laboratory, University of Ljubljana. (n.d.-b). Orange data mining. https://orangedatamining.com/
-Bioinformatics Laboratory, University of Ljubljana. (n.d.-c). Orange3 text mining documentation. https://orange3-text.readthedocs.io/
+Bioinformatics Laboratory. (n.d.-a). Orange3: LICENSE. GitHub. https://github.com/biolab/orange3/blob/master/LICENSE
+Bioinformatics Laboratory. (n.d.-b). Orange3. GitHub. https://github.com/biolab/orange3
+Bioinformatics Laboratory. (n.d.-d). Become a sponsor. GitHub. https://github.com/sponsors/biolab
+GitHub. (n.d.-a). Orange3 activity. https://github.com/biolab/orange3/activity
+GitHub. (n.d.-b). Orange3 contributors. https://github.com/biolab/orange3/graphs/contributors
+GitHub. (n.d.-c). Orange3 issues. https://github.com/biolab/orange3/issues
+
