@@ -1,4 +1,4 @@
-## Orange Data Mining and European Studies
+# Orange Data Mining and European Studies
 
 I chose Orange Data Mining because I used it in my first-semester Applied Qualitative Research Methods course. It is free, easy to use and does not require advanced programming skills.
 
